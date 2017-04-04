@@ -19,3 +19,27 @@ h1 {
   font-size: 18px;
   color: white;
 }
+.subs {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+.process {
+  font-size: 32px;
+}
+.sub-subs {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+#ny {
+  color: white;
+  background-image: url('C:/Users/Steve/webs/broadway/resources/images/the-flatiron-building.png');
+}
+.footer {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+}
+.footer-nav {
+  background-color: dimgray;
+}
