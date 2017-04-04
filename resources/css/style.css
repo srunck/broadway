@@ -36,10 +36,14 @@ h1 {
   background-image: url('C:/Users/Steve/webs/broadway/resources/images/the-flatiron-building.png');
 }
 .footer {
+  background-color: dimgray;
   font-family: Helvetica;
   font-size: 11px;
   color: white;
+  text-align: left;
 }
 .footer-nav {
   background-color: dimgray;
+  color: white;
+  font-size: 18px;
 }
